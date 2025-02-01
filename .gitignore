@@ -101,3 +101,7 @@ ENV/
 .mypy_cache/
 
 .github/**
+
+# Project files
+flower_data.tar.gz
+flowers/
